@@ -7,7 +7,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "bcrypt": "^0.8.7",
+    "bcrypt": "latest",
     "mongodb": "^2.2.10",
     "passwordless-tokenstore": "0.0.10"
   },
